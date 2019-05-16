@@ -11,26 +11,27 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-12月8日PyTorch已经发布1.0的稳定版。
-API的改动不是很大，本教程已经通过测试，保证能够在1.0中正常运行。
-不过目前看影响不大，因为毕竟内容还不多。 v0.4.1已经新建了分支作为存档，并且该不会再进行更新了。
+2019.5.2 PyTorch已经发布1.1的稳定版。
+API的改动不是很大，目前正在测试1.1版本代码兼容性
 
-目前最近版本为1.0.1，没有大的API变更，所以还是以大版本1.0作为开发版本
 
-[官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
-[主要改动中文说明](changelog-v1.0.md)
+[主要改动中文说明](changelog-v1.1.md)
 
-## QQ群 (已升级2000人大群)
-群号：985896536
+## QQ 2群 
+
+群号：681980831
+
 
 扫描二维码
 
-![QR](PyTorch-Handbook-QR.png) 
+![QR](Pytorch-Handbook-2.png) 
 
 
 或
 
-[点击链接加入群聊 『PyTorch Handbook 交流群』](https://jq.qq.com/?_wv=1027&k=5L28MSZ)
+[点击链接加入群聊 『PyTorch Handbook 交流2群』](//shang.qq.com/wpa/qunwpa?idkey=27a51a46371d751795c3a6f0331065b53bfff96b81c27d1646451e21df5463c4)
+
+1群(985896536)已满，不要再加了：
 
 ## 说明
 
@@ -114,6 +115,7 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 
 ### 第五章 应用
 #### 第一节 Kaggle介绍
+[Kaggle介绍](chapter5/5.1-kaggle.md)
 #### 第二节 结构化数据
 #### 第三节 计算机视觉
 #### 第四节 自然语言处理
